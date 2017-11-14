@@ -1,3 +1,8 @@
+# This repository is no longer maintained
+
+Visit [https://github.com/danielholmes/relay-compiler-webpack-plugin](https://github.com/danielholmes/relay-compiler-webpack-plugin) for the currently maintained version.
+
+
 # Relay Compiler Webpack Plugin
 
 Are you running Relay Modern? Are you annoyed with constantly running the `relay-compiler` to generate code, especially if you're already running Webpack?
